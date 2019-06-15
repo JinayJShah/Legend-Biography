@@ -1,6 +1,7 @@
 Name : Mahendra singh Dhoni
 Birth date : 7 July 1981
 Birth Place : Zarkhand
+country : India
 Captain of the Indian national team
 In limited-overs : format from 2007 to 2016
 In Test cricket: from 2008 to 2014.
